@@ -1,0 +1,27 @@
+html{
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    font-size: 2rem;
+    line-height-step: 1.2;
+    text-shadow: 2px 2px 1px yellow;
+    border-bottom: solid 3px RGB(115,115,114);
+}
+.text-skyblue{
+    color: skyblue;
+}
+.text-pink{
+    color: RGB(255,192,203);
+}
+
+body{
+    font-family: "arial","Meirio",sans-serif;
+}
+.google-fonts{
+    /* Google Font「Josefin Sans」を使用 */
+    font-family: "Josefin Sans",sans-serif;
+}
+#basic p {
+    font-weight: bold;
+}
